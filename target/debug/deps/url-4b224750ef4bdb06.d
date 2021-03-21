@@ -1,0 +1,13 @@
+/home/jmanrique/Proyectos_Rust/prueba-actix/target/debug/deps/url-4b224750ef4bdb06.rmeta: /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/jmanrique/Proyectos_Rust/prueba-actix/target/debug/deps/liburl-4b224750ef4bdb06.rlib: /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/jmanrique/Proyectos_Rust/prueba-actix/target/debug/deps/url-4b224750ef4bdb06.d: /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs:

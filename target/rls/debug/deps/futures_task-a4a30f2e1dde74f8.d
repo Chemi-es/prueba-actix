@@ -1,0 +1,11 @@
+d:\Proyectos_Rust\prueba-actix\target\rls\debug\deps\futures_task-a4a30f2e1dde74f8.rmeta: C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\lib.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\spawn.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\future_obj.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\noop_waker.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\arc_wake.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\waker.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\waker_ref.rs
+
+d:\Proyectos_Rust\prueba-actix\target\rls\debug\deps\futures_task-a4a30f2e1dde74f8.d: C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\lib.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\spawn.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\future_obj.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\noop_waker.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\arc_wake.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\waker.rs C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\waker_ref.rs
+
+C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\lib.rs:
+C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\spawn.rs:
+C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\future_obj.rs:
+C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\noop_waker.rs:
+C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\arc_wake.rs:
+C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\waker.rs:
+C:\Users\josem\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.13\src\waker_ref.rs:

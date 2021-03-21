@@ -1,0 +1,11 @@
+/home/jmanrique/Proyectos_Rust/prueba-actix/target/debug/deps/futures_task-b74cf632de0a2319.rmeta: /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs
+
+/home/jmanrique/Proyectos_Rust/prueba-actix/target/debug/deps/futures_task-b74cf632de0a2319.d: /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs /home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs
+
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs:
+/home/jmanrique/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs:
